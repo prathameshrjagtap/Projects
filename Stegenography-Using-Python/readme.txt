@@ -26,3 +26,8 @@ For getting Encoded PNG as result, Please write the extension after the filename
 
 
 _____USE THIS FOR FUN_____
+
+
+In future, I am going to improve this program and i will add some more features as well. 
+
+HOPE YOU LIKE IT.
